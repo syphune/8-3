@@ -127,8 +127,7 @@ export default function ComplimentGenerator() {
                     Cảm ơn Ngân vì đã xuất hiện nhó 😉. Tui mong Ngân luôn xinh đẹp, luôn
                     rạng rỡ, luôn có nhiều mối quan hệ tốt xung quanh 😁. Thời gian qua tui
                     làm phiền Ngân nhiều òi, Ngân cho tui xin lỗi nha 😅. Mong là từ nay tui
-                    hong có vậy nữa hehe. Chúc Ngân luôn vui, gặp nhiều điều tốt đẹp và bên
-                    cạnh người Ngân muốn nhé ❤️.
+                    hong có vậy nữa hehe. Chúc Ngân luôn vui và gặp nhiều điều tốt đẹp ❤️.
                   </p>
                 </div>
               </motion.div>
